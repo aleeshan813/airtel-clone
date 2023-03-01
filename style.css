@@ -1,0 +1,39 @@
+
+body{
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+.box-switch{
+    width: 500px;
+}
+.f-width{
+    background-image: url(https://assets.airtel.in/static-assets/home-recast/images/conversational-widget-bg-web.png);
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+}
+.plan{
+    height: 100%;
+}
+.bottom-boxes p{
+    font-size: 12px;
+}
+.footer{
+    margin-top: 150px !important;
+}
+.nav{
+    width: 800px;
+}
+.nav div:hover{
+    color:red;
+    border-top: 3px solid red;
+    cursor: pointer;
+}
+.c:hover{
+    background-color: rgb(25, 24, 24);
+    color: white;
+    border-radius: 40px;
+}
